@@ -46,5 +46,11 @@
             "titulo": "ENFIM, O ENCONTRO!",  
             "descricao":"Olha, lá vaí Itan com seu senhor! Inaê quase não acredita que era mesmo seu filho! Ele já estava crescido mas também não tinha perdido a esperança de um dia rever sua mãe. Itan havia guardado um pouco de dinheiro e junto ao acumulado por sua mãe durante os anos, conseguiu pagar sua alforria. Embora muitos comerciantes ainda levassem pessoas ilegalmente para a América, o tráfico para o Brasil foi finalmente banido em 1851. Nessa época, um grande número de africanos retornaram para seu continente de origem, conhecidos como os retornados. Se instalaram na costa africana e levaram do Brasil muito do que viveram, novas experiências e culturas. Inaê e Itan fizeram parte dessa comunidade. O peso da escravidão continuou muito forte nos ombros de quem foi arrancado de sua vida e tratado como mercadoria em uma terra desconhecida. Tão grande que os resquícios duram até hoje."
         }
+
+        {
+            "_id": 6,
+            "titulo": "OPA! PARECE QUE ITAN NÃO PASSOU POR AQUI...",  
+            "descricao":"Tente um novo caminho antes que ele se afaste mais ainda de sua mãe."
+        }
     ]
 }
